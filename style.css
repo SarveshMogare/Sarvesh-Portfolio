@@ -225,6 +225,9 @@ body {
 #c2{
     grid-row: 2;
 }
+#c3{
+    grid-row: 3;
+}
 .courses{
     height: 15rem;
     margin-bottom: 5rem;
